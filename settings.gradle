@@ -1,0 +1,2 @@
+rootProject.name = "Nautical Quotes"
+include ':app'
